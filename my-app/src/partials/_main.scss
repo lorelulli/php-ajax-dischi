@@ -1,0 +1,38 @@
+main{
+    width: 100%;
+    min-height: calc(100vh - 60px);
+    background-color: grey;
+}
+.container-cards{
+    width: 60%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 100px 0;
+}
+
+.container-card{
+    height: 400px;
+    width: calc(100% / 3);
+    background-color: grey;
+    padding: 10px 40px;
+    .card{
+        background-color: black;
+        height: 90%;
+        width: 100%;
+        text-align: center;
+        p,h2{
+            color: white;
+        }
+        h2{
+            padding: 20px;
+        }
+        img{
+            height: 200px;
+            padding-top: 20px;
+        }
+
+    }
+
+
+}
