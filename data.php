@@ -1,66 +1,73 @@
 <?php
     $albums = [
         [
-            'image' => 'img/okpc.jpg',
-            'name' => 'Ok computer',
+            'image' => 'img/ph.jpg',
+            'name' => 'Pablo Honey',
             'band' => 'Radiohead',
-            'year' => '1999'
+            'year' => '1993'
+        ],
+
+        [
+            'image' => 'img/bends.jpg',
+            'name' => 'The Bends',
+            'band' => 'Radiohead',
+            'year' => '1995'
         ],
 
         [
             'image' => 'img/okpc.jpg',
-            'name' => 'Ok computer',
+            'name' => 'Ok Computer',
             'band' => 'Radiohead',
-            'year' => '1999'
+            'year' => '1997'
         ],
 
         [
-            'image' => 'img/okpc.jpg',
-            'name' => 'Ok computer',
+            'image' => 'img/kida.jpg',
+            'name' => 'Kid A',
             'band' => 'Radiohead',
-            'year' => '1999'
+            'year' => '2000'
         ],
 
         [
-            'image' => 'img/okpc.jpg',
-            'name' => 'Ok computer',
+            'image' => 'img/amn.jpg',
+            'name' => 'Amnesiac',
             'band' => 'Radiohead',
-            'year' => '1999'
+            'year' => '2001'
         ],
 
         [
-            'image' => 'img/okpc.jpg',
-            'name' => 'Ok computer',
+            'image' => 'img/httt.jpg',
+            'name' => 'Hail to the Thief',
             'band' => 'Radiohead',
-            'year' => '1999'
+            'year' => '2003'
         ],
 
         [
-            'image' => 'img/okpc.jpg',
-            'name' => 'Ok computer',
+            'image' => 'img/ir.jpg',
+            'name' => 'In Rainbows',
             'band' => 'Radiohead',
-            'year' => '1999'
+            'year' => '2007'
         ],
 
         [
-            'image' => 'img/okpc.jpg',
-            'name' => 'Ok computer',
+            'image' => 'img/ir2.jpg',
+            'name' => 'In Rainbows disk II',
             'band' => 'Radiohead',
-            'year' => '1999'
+            'year' => '2008'
         ],
 
         [
-            'image' => 'img/okpc.jpg',
-            'name' => 'Ok computer',
+            'image' => 'img/tkol.jpg',
+            'name' => 'The Kings of Limbs',
             'band' => 'Radiohead',
-            'year' => '1999'
+            'year' => '2011'
         ],
 
         [
-            'image' => 'img/okpc.jpg',
-            'name' => 'Ok computer',
+            'image' => 'img/amsp.jpg',
+            'name' => 'A Moon Shaped Pool',
             'band' => 'Radiohead',
-            'year' => '1999'
+            'year' => '2016'
         ]
     ]
 

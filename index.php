@@ -22,7 +22,7 @@
 
             <main>
                 <div class="container-cards">
-                    <?php  include "data.php" ?>
+                     <?php /* include "data.php" ?>
 
                     <?php
                         foreach ($albums as $key => $album) { ?>
@@ -43,7 +43,7 @@
 
 
 
-                        <?php }?>
+                        <?php }*/?>
 
 
 
@@ -52,6 +52,25 @@
             </main>
 
         </div>
+        <script id="album-template" type="text/x-handlebars-template">
 
+            <div class="container-card">
+                <div class="card">
+                    <img src="{{img}}" alt="">
+                    <h2>{{nm}}</h2>
+                    <p> {{bnd}}</p>
+                    <p>{{yr}}</p>
+
+                </div>
+
+            </div>
+
+
+
+        </script>
+
+        <script src="my-app/dist/css/app/js/app.js" charset="utf-8">
+
+        </script>
     </body>
 </html>
